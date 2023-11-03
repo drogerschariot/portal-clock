@@ -1,11 +1,11 @@
 ## Portal Clock
 
 ### Checklist
-- [ ] Set Alarm
-- [ ] Trigger Alarm
+- [x] Set Alarm
+- [X] Trigger Alarm
 - [ ] Stop Alarm
 - [ ] Set Snooze
-- [ ] Alarm Animation
-- [ ] Hour Animation
+- [X] Alarm Animation
+- [X] Hour Animation
 - [ ] Bonus Sounds
 
