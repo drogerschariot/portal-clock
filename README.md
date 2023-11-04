@@ -3,8 +3,8 @@
 ### Checklist
 - [x] Set Alarm
 - [X] Trigger Alarm
-- [ ] Stop Alarm
-- [ ] Set Snooze
+- [x] Stop Alarm
+- [x] Set Snooze
 - [X] Alarm Animation
 - [X] Hour Animation
 - [ ] Bonus Sounds
