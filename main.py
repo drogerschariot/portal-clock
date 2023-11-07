@@ -16,5 +16,6 @@ while True:
     pick = random.randrange(1, len(sounds_list) - 1)
     print("Playing file : ", sounds_list[pick])
     playsound("sounds/" + sounds_list[pick])
+    print("DONE")
 
   time.sleep(0.1)
